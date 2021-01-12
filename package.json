@@ -1,0 +1,23 @@
+{
+  "name": "climamundo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irwinet/app_node_clima_mundo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irwinet/app_node_clima_mundo/issues"
+  },
+  "homepage": "https://github.com/irwinet/app_node_clima_mundo#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "yargs": "^16.2.0"
+  }
+}
